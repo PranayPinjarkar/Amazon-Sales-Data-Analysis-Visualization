@@ -6,6 +6,11 @@ This project presents a comprehensive exploratory data analysis (EDA) and visual
 ## Dataset Description
 The dataset comprises extensive records of Amazon product listings, covering attributes such as product identifiers, pricing details (discounted and actual prices), discount percentages, customer ratings & review counts, product categories, detailed user reviews, and reviewer metadata.
 
+## Dataset Source
+The Amazon Sales Dataset used in this analysis is publicly available on Kaggle:  
+[Amazon Sales Dataset on Kaggle]
+(kaggle : https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset?resource=download)
+
 ## Data Preparation and Cleansing
 To ensure analytic accuracy and reproducibility, the dataset underwent rigorous cleaning:
 - Standardization of price fields by removing currency symbols and delimiters, followed by conversion to numeric types.
